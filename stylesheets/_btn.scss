@@ -22,6 +22,15 @@ Buttons are `inline-block` so should sit nicely next to one another
 ```
 */
 
+// Eyeglass Dependencies
+@import "tool-rem-calc";
+@import "tool-font-scale";
+@import "tool-palette";
+@import "tool-type-config";
+@import "tool-link";
+@import "breakpoint";
+
+
 .btn, button {
     @extend .link--plain;
     display: inline-block;
