@@ -5,7 +5,7 @@
   "main": "stylesheets/_btn.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "btn",
+    "name": "atom-btn",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
@@ -25,6 +25,6 @@
     "mep-tools.palette": "github:mise-en-place/tools.palette",
     "mep-tools.type-config": "github:mise-en-place/tools.type-config",
     "mep-tools.link": "github:mise-en-place/tools.link",
-    "breakpoint-sass": "^2.7.1",
+    "breakpoint-sass": "^2.7.1"
   }
 }
